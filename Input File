@@ -1,0 +1,19 @@
+Title of Reminder  :  Hello,
+Message   :   Sanitise Your Hands!!:)
+
+Title of Reminder  : Heyyyy,
+Message   :   Take Your Pills :)
+
+Process :
+After Running the project,
+the GUI Page will be displayed on screen where user will give the input
+i.e(title of Reminder, Message, and the time at which user want to notifiy)
+and there will be two buttons OK and RESET
+so after clicking the OK button user will notify according to the given time.
+and if user wants the mutiple notifications so he can use reset button to add more reminders to notify.
+
+
+Reminder Application - MEDIMINDER (Group no:13)
+1. Chirag Dayaramani(D7A-15)
+2. Laveena Kithani(D7A-37)
+3. Disha Raghani(D7A-58)
